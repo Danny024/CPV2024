@@ -16,7 +16,7 @@ Keep your fingers crossed. 🤞
 
 Projects to be Carried Out.
 1.  A robust ROS WRAPPPER for yolov9 and yolov10 algorithm in C++
-2. A robust ROS wrapper for autodistil2 and florence-2 algortithm to enhance ontology for image-text in ROBOTICS application
+2. A robust ROS wrapper for autodistil2 and florence-2 algortithm to enhance ontology for image-text in robotics application
 3. A robust ROS WRAPPER for the SAM algorithm ..
 4. A robust ROS and ROS2 wrapper for the 3D Gaussian algorithm ...
    
