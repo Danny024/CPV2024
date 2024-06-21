@@ -7,11 +7,17 @@ This is an arsenal of scalable ready-to-use and reliable computer vision codes t
 <br>
 <br>
 
-I would be updating the code base within the time frame of 1 month. 
+I would be updating the code base within the time frame of 2 month. 
 😃
 
 <br>
 
 Keep your fingers crossed. 🤞
 
+Projects to be Carried Out.
+1.  A robust ROS WRAPPPER for yolov9 and yolov10 algorithm in C++  ()
+2. A robust ROS wrapper for autodistil2 and florence-2 algortithm to enhance ontology for image-text in ROBOTICS application
+3. A robust ROS WRAPPER for the FASTSAM algorithm ..
+4. A robust ROS and ROS2 wrapper for the 3D Gaussian algorithm ...
+   
 
