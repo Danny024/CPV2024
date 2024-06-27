@@ -19,5 +19,6 @@ Projects to be Carried Out.
 2. A robust ROS wrapper for autodistil2 and Florence-2 algortithm to enhance ontology for image-text in robotics application
 3. A robust ROS WRAPPER for the SAM algorithm ..
 4. A robust ROS and ROS2 wrapper for the 3D Gaussian algorithm ...
+5. A Robust ROS and ROS2 wrapper for Unet Segmentation
    
 
